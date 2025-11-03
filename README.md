@@ -78,4 +78,5 @@ Compiled all audit insights into a strategic roadmap. Outlined goals for traffic
 ## Attachments:
 
 The attached presentation covers Tasks 1 to 5, while the strategic analysis and recommendations in Task 6 are detailed in the accompanying PDF report.
+https://github.com/JavidhFarhan/SEO-Navigator-From-Audit-to-Action.git 
 
